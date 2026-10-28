@@ -1,1 +1,1 @@
-# -Smart_Resource_Allocation_and_Scheduling_System
+# Smart_Resource_Allocation_and_Scheduling_System
